@@ -1,4 +1,4 @@
-# 🚀 Complete RAG Bootcamp 2026
+# 🚀 Complete RAG Bootcamp
 
 > **Master Retrieval-Augmented Generation (RAG) from Fundamentals to Advanced Production Systems**
 
